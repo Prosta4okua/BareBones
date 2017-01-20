@@ -1,0 +1,11 @@
+{
+    "frog": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "barebones:frog",
+                "stream": true
+            }
+        ]
+    }
+}

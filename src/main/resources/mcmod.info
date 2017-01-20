@@ -1,0 +1,16 @@
+[
+{
+  "modid": "barebones",
+  "name": "BareBones",
+  "description": "Bare Bones Mod.",
+  "version": "0.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrAmericanMike"],
+  "credits": "MrAmericanMike for making this Bare Bones Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+{
+    "parent": "barebones:item/generic_item",
+    "textures": {
+        "layer0": "barebones:items/scissor"
+    }
+}

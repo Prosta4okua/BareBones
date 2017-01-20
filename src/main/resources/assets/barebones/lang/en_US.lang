@@ -1,0 +1,6 @@
+itemGroup.barebones=Bare Bones
+
+item.barebones:example_item.name=Example Item
+item.barebones:scissor.name=Scissor
+
+tile.barebones:black_stone.name=Black Stone
